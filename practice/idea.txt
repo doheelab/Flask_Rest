@@ -1,0 +1,10 @@
+REST: REpresentational State Transfer
+API: Application Programming Interface
+
+1. REST API
+Manipulate or query or update data in a structured format.
+We set up this API with endpoints (request -> reponse)
+
+
+API return은 json형식 따라야한다.
+예) python의 dictionary
